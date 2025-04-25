@@ -12,26 +12,6 @@ The goal is to simulate real-world cybersecurity scenarios and practice threat d
 
 ---
 
-## 🗂️ Project Structure
-
-SOC-Analyst-Home-Lab/
-├── README.md                ← Project overview, goals, and progress
-├── docs/                    ← Documentation folder
-│   ├── phase1_setup.md      ← Initial lab setup (VMs, Wazuh installation)
-│   ├── phase2_attack.md     ← Attack simulations (using Kali Linux)
-│   ├── phase3_monitor.md    ← Wazuh and Kibana setup for monitoring
-│   ├── phase4_analysis.md   ← Alert analysis and log monitoring
-│   └── future_plans.md      ← Future improvements and tools to add
-├── images/                  ← Folder for screenshots and diagrams
-│   ├── lab_diagram.png      ← Diagram of the virtual lab setup
-│   ├── attack_simulation.png← Screenshot of an attack simulation in progress
-│   └── kibana_dashboard.png ← Screenshot of the Kibana dashboard showing alerts
-└── .gitignore               ← To ignore unnecessary files (logs, IDE configurations, etc.)
-
-
-
----
-
 ## 📖 Documentation
 
 - [Phase 1: Lab Setup](docs/phase1_setup.md)  
